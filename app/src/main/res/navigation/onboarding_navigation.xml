@@ -20,7 +20,7 @@
     </fragment>
     <fragment
         android:id="@+id/signupFragment"
-        android:name="com.example.myapp.fragments.signup.SignupFragment"
+        android:name="com.example.myapp.fragments.login.SignupFragment"
         android:label="Sign Up"
         tools:layout="@layout/fragment_signup" />
 </navigation>
